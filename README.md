@@ -1,5 +1,9 @@
-###  这是一个讲解Webpack的寄出用法小例子的库
+###  这是一个讲解Webpack的基础用法小例子的代码库
 我在学习webpack的时候,在国外的medium网站上找到了一片文章,文章讲的很详细而且很容易跟着操作学习
+
+文章的地址是 https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.atmgqghmc
+
+如果看英文不太习惯,
 
 我将这边文章翻译到了我的博客,地址是: http://blog.csdn.net/phpzealer/article/details/51031069
 
