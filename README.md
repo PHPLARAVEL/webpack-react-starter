@@ -1,13 +1,24 @@
-这是一个讲解Webpack的寄出用法小例子的库
-我在学习webpack的时候,在国外的medium网站上找到了一片文章,文章讲的很详细而且很容易跟着操作学习,
+###  这是一个讲解Webpack的寄出用法小例子的库
+我在学习webpack的时候,在国外的medium网站上找到了一片文章,文章讲的很详细而且很容易跟着操作学习
+
 我将这边文章翻译到了我的博客,地址是: http://blog.csdn.net/phpzealer/article/details/51031069
+
 文章主要讲了:
+
 1.webpack搭建最基本的构建
+
 2.定义webpack的配置文件
+
 3.Webpack Dev Server服务器
+
 4.利用webpack加载文件
+
 5.Webpack 加载器和预加载器
+
 6.Loaders:Using Babel with Webpack 加载器: 结合Babel使用Webpack
+
 7.Preloaders: Using JSHint with Webpack 预加载器:结合JSHhint使用Webpack
+
 8.Use React with Webpack 结合React使用Webpack 
+
 
